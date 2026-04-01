@@ -15,3 +15,7 @@ Anda wajib menginstall library **OpenSSL**.
 **Linux (Ubuntu/Debian):**
 ```bash
 sudo apt-get install libssl-dev
+```
+**Windows:**
+Gunakan MSYS2 atau vcpkg untuk install OpenSSL, lalu link-kan ke compiler C++ Anda.
+​Kompilasi
