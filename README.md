@@ -1,6 +1,8 @@
 # Lock-Ransomware PoC v1.0 🛡️
 
-**WARNING: FOR EDUCATIONAL PURPOSES ONLY.**
+**WARNING :**
+
+FOR EDUCATIONAL PURPOSES ONLY.**
 Alur kerja enkripsi data menggunakan AES-256 CBC Mode untuk riset keamanan siber.
 
 ## 🚀 Fitur
@@ -17,10 +19,12 @@ Anda wajib menginstall library **OpenSSL**.
 sudo apt-get install libssl-dev
 ```
 **Windows:**
+
 Gunakan MSYS2 atau vcpkg untuk install OpenSSL, lalu link-kan ke compiler C++ Anda.
 ​Kompilasi
 
 **Cara Penggunaan**
+
 ​Pindahkan file executable ke folder eksperimen (Laptop Lab).
 ​Mengunci File:
 ```bash
